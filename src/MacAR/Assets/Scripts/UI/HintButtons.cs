@@ -14,7 +14,7 @@ public class HintButtons : MonoBehaviour
     public MultiplayerPuzzleManager multi;
     int counter = 0;
     int hintCount = 0;
-    int activePuzzIndex = 0;
+    //int activePuzzIndex = 0;
     // Start is called before the first frame update
     void Start()
     {

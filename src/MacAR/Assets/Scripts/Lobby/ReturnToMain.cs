@@ -13,7 +13,7 @@ public class ReturnToMain : MonoBehaviour
 {
 
     
-    [SerializeField] private string mainMenuName = "Gameplay";
+    //[SerializeField] private string mainMenuName = "Gameplay";
 
     // Start is called before the first frame update
     public async void returnToMain()
